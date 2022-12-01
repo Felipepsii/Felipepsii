@@ -8,7 +8,7 @@
 
 - 🎓 &nbsp; Estudando Analise e Desenvolvimento de Sistema na <a href="https://www.up.edu.br/">Universidade Positivo</a>.
 - 💼 &nbsp; Trabalhando como editor de video freelancer
-- 🌱 &nbsp; Aprendendo mais sobre Java, BootStrap e C#.
+- 🌱 &nbsp; Aprendendo todo dia um pouco sobre JAVA, SpringBoot e C#.
 
 <h3> 🧠 Minhas Skills 🧠 </h3>
 
