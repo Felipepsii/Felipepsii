@@ -6,7 +6,7 @@
 
 <h3> 😺 Sobre mim 😺 </h3>
 
-- 🎓 &nbsp; Estudando Analise e Desenvolvimento de Sistema na <a href="https://www.up.edu.br/">Universidade Positivo</a>.
+- 🎓 &nbsp; Formado em Analise e Desenvolvimento de Sistema na <a href="https://www.up.edu.br/">Universidade Positivo</a>.
 - 💼 &nbsp; Trabalhando como editor de video freelancer
 - 🌱 &nbsp; Aprendendo todo dia um pouco sobre JAVA, SpringBoot e C#.
 
